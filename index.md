@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Владислав Бауэр
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Vladislav Bauer
+Программест
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
