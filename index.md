@@ -2,18 +2,20 @@
 layout: cv
 title: Владислав Бауэр
 ---
-# Vladislav Bauer
-Программест
+# Владислав Бауэр
+Программест, котлин фан
+
+![Я](assets/vsbauer.jpg)
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:vlad.bauer24@gmail.com">vlad.bauer24@gmail.com</a>
+| <a href="https://t.me/vsbauer">Telegram: vsbauer</a> | <a href="https://www.linkedin.com/in/vsbauer">LinkedIn: vsbauer</a>
 </div>
 
 
-## Currently
+## Сейчас
 
-Standing on the shoulders of giants
+KMM/Android разработчик в napsy.io
 
 ### Specialized in
 
