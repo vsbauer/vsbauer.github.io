@@ -8,13 +8,11 @@ title: Владислав Бауэр
     <button class="print-button"><span class="print-icon" onclick="window.print()"></span></button>
 </div>
 
-<div id="avatar">
-<img src="assets/kakoito-krasavchik.png" 
-alt="Я" style="alignment: center" width=200 height=200 />
-</div>
 
+<img src="assets\kakoito-krasavchik.png" style="zoom: 33%;" />
 
 # Владислав Бауэр
+
 Программест, котлин фан
 
 
