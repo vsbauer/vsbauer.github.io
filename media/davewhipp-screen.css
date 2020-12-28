@@ -187,7 +187,10 @@ strong {
 	display: none;
 }
 
-
+div.disabled {
+	overflow-x: hidden; //horizontal
+overflow-y: scroll; //vertical
+}
 
 /*
 @media only screen and (max-width: 480px) {
