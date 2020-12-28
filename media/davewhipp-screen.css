@@ -32,7 +32,7 @@ footer, header, hgroup, menu, nav, section {
 
 div.disabled {
     overflow-x: hidden;
-    overflow-y: scroll;
+    overflow-y: auto;
 }
 
 body {

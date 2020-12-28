@@ -16,10 +16,8 @@ title: Владислав Бауэр
 
 _Санкт-Петербург, удаленка, релокейт (после сентября 2021)_
 
-<div id="webaddress">
-<a href="mailto:vlad.bauer24@gmail.com">vlad.bauer24@gmail.com</a>
-| <a href="https://t.me/vsbauer">Telegram: vsbauer</a> | <a href="https://www.linkedin.com/in/vsbauer">LinkedIn: vsbauer</a>
-</div>
+[vlad.bauer24@gmail.com](mailto:vlad.bauer24@gmail.com "Это почта") | [Tg: vsbauer](https://t.me/vsbauer	"Это телега") | [LinkedIn](https://www.linkedin.com/in/vsbauer/	"Это линкедин")
+
 
 
 ## Сейчас
