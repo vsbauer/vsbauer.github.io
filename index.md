@@ -5,7 +5,7 @@ title: Владислав Бауэр
 # Владислав Бауэр
 Программест, котлин фан
 
-![Я](assets/vsbauer.jpg)
+![Я](assets/logo.jpg)
 
 <div id="webaddress">
 <a href="mailto:vlad.bauer24@gmail.com">vlad.bauer24@gmail.com</a>

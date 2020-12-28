@@ -1,18 +1,19 @@
 <!doctype html>
 <html>
 <head>
-  <meta charset=utf-8 />
-  <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
-  <link href="media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
-  <link href="media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
-  <link href="media/button-print.css" type="text/css" rel="stylesheet">
+    <meta charset=utf-8/>
+    <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
+    <link href="media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
+    <link href="media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
+    <link href="media/button-print.css" type="text/css" rel="stylesheet">
 </head>
 <body>
-  <div id="main">
+<div id="main">
     <button class="print-button"><span class="print-icon" onclick="window.print()"></span></button>
     <div id="content">
-    {{ content }}
+        <img src="../assets/kakoito-krasavchik.png" alt="Я" width="300" height="300">
+        {{ content }}
     </div>
-  </div>
+</div>
 </body>
 </html>
