@@ -2,10 +2,13 @@
 layout: cv
 title: Владислав Бауэр
 ---
+<div id="print">
+    <button class="print-button"><span class="print-icon" onclick="window.print()"></span></button>
+</div>
 
 <div id="avatar">
 <img src="assets/kakoito-krasavchik.png" 
-alt="Я" style="float: left;" width=200 height=200 />
+alt="Я" width=200 height=200 />
 </div>
 
 # Владислав Бауэр
