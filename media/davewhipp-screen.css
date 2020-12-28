@@ -30,6 +30,11 @@ footer, header, hgroup, menu, nav, section {
     display: block;
 }
 
+div.disabled {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
 body {
     line-height: 1;
 }
@@ -190,11 +195,6 @@ strong {
 
 #address {
     display: none;
-}
-
-div.disabled {
-    overflow-x: hidden;
-    overflow-y: scroll;
 }
 
 /*

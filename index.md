@@ -12,9 +12,9 @@ title: Владислав Бауэр
 <img src="assets\kakoito-krasavchik.png" style="zoom: 33%;" />
 
 # Владислав Бауэр
+Программест, котлин :heart:
 
-Программест, котлин фан
-
+_Санкт-Петербург, удаленка, релокейт (после сентября 2021)_
 
 <div id="webaddress">
 <a href="mailto:vlad.bauer24@gmail.com">vlad.bauer24@gmail.com</a>
@@ -26,14 +26,13 @@ title: Владислав Бауэр
 
 KMM/Android разработчик в napsy.io
 
-### Specialized in
+## Стек 
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+KMM, Android, Retrofit, Ktor, [Dagger](https://github.com/vsbauer/LibraryApp "Мои извращения с ним"), Kodein, Coroutines, Rx(_оч начальный уровень_), 
+
+## Опыт
 
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
