@@ -12,9 +12,11 @@ title: Владислав Бауэр
 <img src="assets\kakoito-krasavchik.png" style="zoom: 33%;" />
 
 # Владислав Бауэр
-Программест, котлин :heart:
+Программест, котлин :heartpulse:
 
 _Санкт-Петербург, удаленка, релокейт (после сентября 2021)_
+
+### Связаться
 
 - [vlad.bauer24@gmail.com](mailto:vlad.bauer24@gmail.com "Это почта")
 - [Tg: vsbauer](https://t.me/vsbauer	"Это телега") 
