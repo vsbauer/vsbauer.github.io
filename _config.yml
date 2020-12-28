@@ -1,4 +1,4 @@
-logo: assets/logo.jpg
+logo: /assets/logo.jpg
 markdown: kramdown
 style: davewhipp
 theme: jekyll-theme-minimal

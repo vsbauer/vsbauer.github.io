@@ -1,5 +1,6 @@
 ---
-layout: cv title: Владислав Бауэр
+layout: cv
+title: Владислав Бауэр
 ---
 
 <div id="avatar">
@@ -10,10 +11,12 @@ alt="Я" style="float: left;" width=200 height=200 />
 # Владислав Бауэр
 Программест, котлин фан
 
+
 <div id="webaddress">
 <a href="mailto:vlad.bauer24@gmail.com">vlad.bauer24@gmail.com</a>
 | <a href="https://t.me/vsbauer">Telegram: vsbauer</a> | <a href="https://www.linkedin.com/in/vsbauer">LinkedIn: vsbauer</a>
 </div>
+
 
 ## Сейчас
 
@@ -23,9 +26,11 @@ KMM/Android разработчик в napsy.io
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
+
 ### Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
+
 
 ## Education
 
@@ -42,12 +47,16 @@ __Trinity College, Cambridge__
 
 - Fellow
 
+
+
 ## Awards
 
 `2012`
 President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
+
+
 
 ## Publications
 
@@ -56,7 +65,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas.
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
 `1669`
 Lectiones opticæ.
@@ -66,9 +75,8 @@ etc. etc. etc.
 ### Patents
 
 `2012`
-Infinitesimal calculus for solutions to physics
-problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml)
-patent 001
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+
 
 ## Occupation
 
