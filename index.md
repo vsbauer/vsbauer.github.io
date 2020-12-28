@@ -10,7 +10,7 @@ title: Владислав Бауэр
 
 <div id="avatar">
 <img src="assets/kakoito-krasavchik.png" 
-alt="Я" width=200 height=200 />
+alt="Я" style="alignment: center" width=200 height=200 />
 </div>
 
 
