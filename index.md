@@ -1,7 +1,10 @@
 ---
 layout: cv
 title: Владислав Бауэр
+
 ---
+<link rel="shortcut icon" type="image/jpg" href="assets/logo.jpg">
+
 <div id="print">
     <button class="print-button"><span class="print-icon" onclick="window.print()"></span></button>
 </div>
