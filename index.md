@@ -4,7 +4,9 @@ title: Владислав Бауэр
 
 ---
 
-
+<div id="print">
+    <button class="print-button"><span class="print-icon" onclick="window.print()"></span></button>
+</div>
 
 <img alt="Пёс" src="assets/pes.png" style="zoom: 33%;">
 
