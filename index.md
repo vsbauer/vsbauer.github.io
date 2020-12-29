@@ -15,11 +15,12 @@ title: Владислав Бауэр
 
 _Санкт-Петербург, удаленка, релокейт (после сентября 2021)_
 
-## Связаться
+## Ссылочки
 
 - [vlad.bauer24@gmail.com](mailto:vlad.bauer24@gmail.com "Это почта")
 - [Tg: vsbauer](https://t.me/vsbauer	"Это телега") 
 - [LinkedIn](https://www.linkedin.com/in/vsbauer/	"Это линкедин")
+- [Github](https://github.com/vsbauer	"Это гитхаб, там почти нечего смотреть))")
 
 ## Сейчас
 
