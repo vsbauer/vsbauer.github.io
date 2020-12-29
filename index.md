@@ -28,74 +28,52 @@ KMM/Android разработчик в napsy.io
 
 ## Стек 
 
-KMM, Android, Retrofit, Ktor, [Dagger](https://github.com/vsbauer/LibraryApp "Мои извращения с ним"), Kodein, Coroutines, Rx(_оч начальный уровень_), 
+KMM, Android, Retrofit, Ktor, [Dagger](https://github.com/vsbauer/LibraryApp "Мои извращения с ним"), Kodein, Coroutines, SQLDelight
+MVP, MVVM, смотрю на MVU(TEA), MVI
 
 ## Опыт
 
+`07.2020 - настоящее время`
+__NapoleonIT(napsy.io)__ - KMM/Android разработчик
+
+Пишу на под андроид и общий мобильный модуль(KMM)
+Из интересных штук успел сделать небольшое кэширование с sqldelight и server-driven localization
+
+`09.2020 - 12.2020`
+__ИТМО__ - Ментор
+
+Сопровождал пары научного руководителя у первого курса бакалавриата, самостоятельно провёл пару по вводу в архитектуру мобилок
+
+`09.2019 - 07.2020`
+__Hedghehog tech__ - Android teamlead
+
+Собрал тиму отважных мстителей из лучших кандидатов джунов (ага с моим то опытом в полгода)
+Спроектировал и мы выпустили в стор наши приложения: MVP тревел квиз, "секретный" браузер и эксперементировали с утилками для телефона
+
+- Надоел команде разговорами об архитектуре, клин MV{что-то} наше все!
+
+- Люблю корутины и немного трогал flow, еще был rx но прям совсем чуть-чуть
+
+- Прививаю всем любовь к даггеру, а сам засматриваюсь на коин, ехал значит гет через гет, а там инжект, ну он и растерялся совсем
+
+- Вьюхи делал повторяя мантру onMeasure, onLayout, onDraw вроде помогло
+
+`03.2019 - 09.2020`
+__Hedghehog tech__ - Android разработчик
+
+Писал мини клиент-серверные прилы
+
+Заодно и приложение на диплом где json со своего серва на кторе превращал в список отелей Геленджика
 
 
+## Образование
 
-## Education
+`09.2019 - 06.2021`
+__ИТМО__ - Магистратура 
 
-`1654-1660`
-__The King's School, Grantham.__
+- Мобильные и сетевые технологии
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`09.2015 - 06.2019`
+__СПБГЭУ__ - Бакалавриат
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- Информационные системы и технологии
