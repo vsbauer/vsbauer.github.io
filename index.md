@@ -4,12 +4,9 @@ title: Владислав Бауэр
 
 ---
 
-<div id="print">
-    <button class="print-button"><span class="print-icon" onclick="window.print()"></span></button>
-</div>
 
 
-<img src="assets\kakoito-krasavchik.png" style="zoom: 33%;" />
+<img alt="Пёс" src="assets/pes.png" style="zoom: 33%;">
 
 # Владислав Бауэр
 Программест, котлин :heart:
@@ -29,6 +26,7 @@ KMM/Android разработчик в napsy.io
 ## Стек 
 
 KMM, Android, Retrofit, Ktor, [Dagger](https://github.com/vsbauer/LibraryApp "Мои извращения с ним"), Kodein, Coroutines, SQLDelight
+
 MVP, MVVM, смотрю на MVU(TEA), MVI
 
 ## Опыт
